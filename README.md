@@ -1,6 +1,6 @@
 👋 Hi, I’m Ojas Inamdar
-- I am a student pursuing his B.Tech in CSE from SIT Pune.
-- I work primarily in JS based web apps and am always looking for opportunities to exchange ideas and gain knowledge.
+- I am a student pursuing B.Tech Computer Science and Engineering from Pune, India.
+- Trying my hardest to not write code that makes things go boom
 
 <!---
 TDP17/TDP17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
