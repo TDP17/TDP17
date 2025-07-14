@@ -1,5 +1,4 @@
 👋 Hi, I’m Ojas Inamdar
-- I am a student pursuing B.Tech Computer Science and Engineering from Pune, India.
 - Trying my hardest to not write code that makes things go boom
 
 <!---
